@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-13T21:45:17" hostname="DESKTOP-8FECB6M" time="0.078">
+  <properties/>
+  <testcase name="whenInputIncorrectValueThenThrowException()" classname="CalculatorTest" time="0.06"/>
+  <testcase name="when5AddTo10AsStringThenResult()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="add()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="minus()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="multiply()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="whenAddTenToFiveThenResultFifthteen()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
